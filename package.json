@@ -1,0 +1,14 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "A simple chat web application which is similar to IRC chat.",
+  "main": "chat_client.js",
+  "scripts": {
+    "start": "node chat_client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
